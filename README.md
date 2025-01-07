@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Kiyeon's%20Profile&fontAlignY=50&fontColor=&fontAlign=50&animation=fadeIn&textBg=false" />
 
 <div align="center">
-  <h1>안녕하세요!🍀🧸</h1>
+  <h1>안녕하세요!</h1>
   <p>방문해주셔서 감사합니다. 무조건 해내자! 저는 주니어 개발자 <strong></strong>입니다. 🌟</p>
   
 ## About me
@@ -76,7 +76,7 @@
 ---
 
   <h2>Address</h2>
-  <p>✉ Email: <a href="mailto:your.email@example.com">wlgus5946@gmail.com</a></p>
+  <p>✉ Email: <a href="mailto:your.email@example.com">dnjsrldus01@gmail.com</a></p>
 
 
   <hr style="border: 1px solid #ddd; width: 80%; margin: 20px auto;">
