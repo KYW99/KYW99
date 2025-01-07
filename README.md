@@ -64,8 +64,8 @@
 ---
 ### 📅 Github State
 
-![jungmayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungmayo&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungmayo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![KYW99's GitHub stats](https://github-readme-stats.vercel.app/api?username=KYW99&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KYW99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📅 Projects Overview
 
